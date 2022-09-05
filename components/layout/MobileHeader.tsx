@@ -1,6 +1,5 @@
 import * as React from 'react';
 import NextLink from 'next/link';
-import Image from 'next/image';
 import { AppBar, Box, SwipeableDrawer, IconButton, Link, List, ListItem, ListItemIcon, ListItemText, Toolbar } from '@mui/material';
 import { makeStyles } from '@mui/styles';
 import { Theme } from '@mui/material/styles';
